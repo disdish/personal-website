@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css" /> 
+  <title>Travel India</title>
+</head>
+<body>
+  <h1>India!</h1>
+  <h2>These are 5 of the most recommended places to visit in the whole of India </h2>
+  <h3> India has a unique culture and is one of the oldest and greatest civilizations of the world. India has achieved all-round socio-economic progress since its Independence. India covers an area of 32,87,263 sq. km, extending from the snow-covered Himalayan heights to the tropical rain forests of the south. </h3>
+  <h5> Information from: <a href = "https://knowindia.india.gov.in/profile/india-at-a-glance.php#:~:text=India%20has%20a%20unique%20culture,rain%20forests%20of%20the%20south."> Know India </a> and <a href = "https://www.lonelyplanet.com/articles/top-things-to-do-in-india"> Lonely Planet </a></h5> 
+  <br> 
+  <h3>1.) Taj Mahal </h3>
+  <img src = "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-107765819/107765819.jpg" height = 200, width = 300>
+  <img src = "https://i.pinimg.com/originals/53/30/5d/53305d5e1da591b8dcbc548178280604.jpg" height = 200, width = 400> 
+  <h4>The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan (reigned from 1628 to 1658), to house the tomb of his favorite wife, Mumtaz Mahal.</h4>
+  <p> Information from: <a href = "https://agra.nic.in/tourist-place/the-taj-mahal/#:~:text=The%20Taj%20Mahal%20is%20an,his%20favourite%20wife%2C%20Mumtaz%20Mahal."> NIC Agra </a></p>
+  <br>
+  <h3>2.) Explore the ruins of Hampi</h3>
+  <img src = "https://jonistravelling.com/wp-content/uploads/2018/09/vijaya-vittala-temple-hampi-india.jpg" height = 200, width = 300>
+  <img src = "https://media.easemytrip.com/media/Blog/India/637925291200301189/637925291200301189vFcpbK.jpg" height = 200, width = 300> 
+  <h4>Hampi is a cultural and architectural heritage site built more than 200 years ago. The site was constructed between 1336 AD to 1565 AD. This location is famous for its temples, palaces, market streets and monuments, making up the Vijayanagara Empire.</h4>
+  <p> Information from: <a href = "https://byjus.com/kids-learning/essay-on-hampi/#:~:text=Hampi%20is%20a%20cultural%20and,making%20up%20the%20Vijayanagara%20Empire" >Byju's</a></p>
+  <br> 
+  <h3>3.) Goa </h3>
+  <img src = "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/f0/goa.jpg?w=1400&h=1400&s=1" height = 200, width = 300> 
+  <img src = "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/3e/36/95/baga-sea-beach.jpg?w=600&h=400&s=1" height = 200, width = 300> 
+  <h4>Goa, a tiny emerald on the west coast of India, with its natural Scenic beauty, abundant greenery, attractive beaches, historical temples and churches, colourful feasts and festivals, and above all warm and hospitable people with a rich cultural milieu, has today emerged as an ideal tourist destination worldwide.</h4>
+  <p> Information from: <a href = "https://www.goa.gov.in/"> Government of Goa</a>
+    <br><br>
+    <h3>4.) Gateway of India </h3>
+    <img src = "https://www.gsd.harvard.edu/wp-content/uploads/2017/08/Ors-Ausin_J_MDes_img1.jpg" height = 200, width = 300> 
+    <img src = "https://theheritageart.com/wp-content/uploads/2022/11/gateway-of-india.jpeg" height = 200, width = 300> 
+    <h4>The Gateway of India is an arch monument built during the 20th century in Bombay, India. The monument was erected to commemorate the landing of King George V and Queen Mary at Apollo Bunder on their visit to India in 1911.</h4>
+    <p> Information from: <a href = "https://mumbaicity.gov.in/tourist-place/gateway-of-india/#:~:text=The%20Gateway%20of%20India%20is,visit%20to%20India%20in%201911"> Government of Maharashtra</a>
+      <br><br>
+      <h3>5.) Sarojini Nagar Market</h3>
+      <img src = "https://www.dsource.in/sites/default/files/styles/gallary_images__565_x_800__/public/gallery/18636/3.jpg?itok=vKobBqdU" height = 200, width = 300> 
+      <img src = "https://www.tourmyindia.com/states/delhi/images/sarojini-nagar-shopping-market1-1.jpg" height = 200, width = 300> 
+      <h4>Sarojini Nagar Market is a popular and bustling shopping destination located in South Delhi. The market is known for its trendy fashion apparel, accessories, footwear, and home decor items, all available at incredibly low prices.</h4>
+    <p> Information from: <a href = "https://www.tripadvisor.com/Attraction_Review-g304551-d2462091-Reviews-Sarojini_Nagar_Market-New_Delhi_National_Capital_Territory_of_Delhi.html"> Tripadvisor</a></p>
+  <br>
+  <h2> <a href = "https://0db0074c-2edb-4343-9d31-3a671f86a05a-00-34e4bgh61c90f.picard.replit.dev/"> Return back to home page </a></h2>
+  <br><br><br> 
+</body>
+</html>
