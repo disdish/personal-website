@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css" /> 
+  <title>Travel China</title>
+</head>
+<body>
+  <h1>China </h1>
+  <h2>These are 5 of the most recommended places to visit in the whole of China </h2>
+  <h3>China is situated in eastern Asia on the western shore of the Pacific Ocean, with an area of 9.6 million square kilometers. China's continental coastline extends for about 18,000 kilometers, and its vast sea surface is studded with more than 5,000 islands, of which Taiwan and Hainan are the largest.</h3>
+  <h5>Information from: <a href = "http://us.china-embassy.gov.cn/eng/"> China Embassy </a></h5>
+  <br> 
+  <h3>1.) Great Wall of China</h3>
+  <img src = "https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638892506/EducationHub/photos/the-great-wall-of-china.jpg" height = 200, width = 300>
+  <img src = "https://cdn.britannica.com/82/178682-050-0F8C47E3/Great-Wall-of-China-Mutianyu-Beijing.jpg" height = 200, width = 300>
+  <h4>Its main body consists of walls, horse tracks, watch towers, and shelters on the wall, and includes fortresses and passes along the Wall. The Great Wall reflects collision and exchanges between agricultural civilizations and nomadic civilizations in ancient China.</h4>
+  <p>Information from: <a href = "https://whc.unesco.org/en/list/438/#:~:text=Its%20main%20body%20consists%20of,nomadic%20civilizations%20in%20ancient%20China.">UNESCO</a></p>
+  <br> 
+  <h3>2.) Forbidden City </h3>
+  <img src = "https://cdn.britannica.com/03/198203-050-138BB1C3/entrance-Gate-of-Divine-Might-Beijing-Forbidden.jpg" height = 200, width = 300>
+  <img src = "https://media.cnn.com/api/v1/images/stellar/prod/190204123500-juanqinzhai-theater-room-after-conservation-3.jpg?q=w_4992,h_2808,x_0,y_0,c_fill" height = 200, width = 300> 
+  <h4> Measuring 961 meters in length and 753 meters in width, the Forbidden City is composed of more than 90 palace compounds including 98 buildings and surrounded by a moat as wide as 52 meters. The Forbidden City was the political and ritual center of China for over 500 years. </h4>
+  <p>Information from: <a href = "https://www.khanacademy.org/humanities/ap-art-history/south-east-se-asia/china-art/a/forbidden-city#:~:text=Measuring%20961%20meters%20in%20length,as%20wide%20as%2052%20meters.&text=The%20Forbidden%20City%20was%20the,China%20for%20over%20500%20years.">Khan Academy</a></p>
+  <br>
+  <h3>3.) The Bund</h3>
+  <img src = "https://www.asiaodysseytravel.com/images/china-tours/group-tours/the-bund-700-13.jpg" height = 200, width = 300> 
+  <img src = "https://www.alexisjetsets.com/wp-content/uploads/2019/09/the-bund-shanghai-alexisjetsets-2-e1568976232366.jpg" height = 200, width = 300> 
+  <h4>The Bund is a 1.5-kilometre-long waterfront area and a protected historical district in central Shanghai. On the eastern side of the Bund lies the Huangpu River – the largest river flowing through downtown Shanghai, also known as Shanghai's mother river.</h4>
+  <p>Information from: <a href = "https://english.shanghai.gov.cn/en-ScenicSpots/20231205/584672cc6d044eabb5f7f6fc9049a19f.html#:~:text=The%20Bund%20is%20a%201.5,historical%20district%20in%20central%20Shanghai.&text=On%20the%20eastern%20side%20of,known%20as%20Shanghai's%20mother%20river."> International Services: Shanghai </a></p>
+  <br> 
+  <h3>4.) Yu Garden (Yuyuan) </h3>
+  <img src = "https://ltl-shanghai.com/wp-content/sites/12/2023/03/garden_optimized-1280x720.jpg" height = 200, width = 300> 
+  <img src = "https://www.tripsavvy.com/thmb/egwSK1cCEFgoCIA7lC5HNHfRTfg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/night-view-of-yu-garden-in-shanghai-584838896-5a991b3031283400374fe855.jpg" height = 200, width = 300> 
+  <h4>Yu Garden is composed of six scenic areas: Sansui Hall, Wanhua Chamber, Dianchun Hall, Huijing Hall, Yuhua Hall, and the Inner Garden. The highlights of the garden are: classical Chinese architecture, exquisite sculptures and carvings, and the busy Yuyuan bazaar. </h4> 
+  <p>Information from: <a href = "https://www.chinahighlights.com/shanghai/attraction/yuyuan-garden.htm#:~:text=Yu%20Garden%20is%20composed%20of,and%20the%20busy%20Yuyuan%20bazaar.">China Highlights </a>
+    <br><br>
+    <h3>5.) Victoria Peak</h3>
+    <img src = "https://media.cnn.com/api/v1/images/stellar/prod/170810131459-victoria-peak-hong-kong.jpg?q=w_3000,h_1943,x_0,y_0,c_fill" height = 200, width = 300> 
+    <img src = "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/c9/50/88/photo3jpg.jpg?w=1200&h=-1&s=1" height = 200, width = 300> 
+    <h4>Victoria Peak is a hill on the western half of Hong Kong Island. It is also known as Mount Austin, and locally as The Peak only generally. With an elevation of 552 metres (1,811 ft), it is the tallest hill on Hong Kong Island, and the 29th tallest in the territory of Hong Kong.</h4>
+    <p> Information from: <a href = "https://en.wikipedia.org/wiki/Victoria_Peak#:~:text=Victoria%20Peak%20is%20a%20hill,the%20territory%20of%20Hong%20Kong."> Wikipedia </a></p> 
+  <br> 
+  <h2> <a href = "https://0db0074c-2edb-4343-9d31-3a671f86a05a-00-34e4bgh61c90f.picard.replit.dev/"> Return back to home page </a></h2>
+  <br><br><br> 
+  <p> Disclaimer: All sources have been cited for this coding project. Credits to all the original posters of information. </p>
+  <br> 
+  <p> Photo sources (in order): </p>
+  <p>1a.) <a href = "https://education.nationalgeographic.org/resource/great-wall-china/"> National Geographic</a> </p>
+  <p>1b.) <a href = "https://cdn.britannica.com/82/178682-050-0F8C47E3/Great-Wall-of-China-Mutianyu-Beijing.jpg"> Britannica </a></p>
+  <p>2a.) <a href = "https://cdn.britannica.com/03/198203-050-138BB1C3/entrance-Gate-of-Divine-Might-Beijing-Forbidden.jpg" > Britannica</a></p>
+  <p>2b.) <a href = "https://media.cnn.com/api/v1/images/stellar/prod/190204123500-juanqinzhai-theater-room-after-conservation-3.jpg?q=w_4992,h_2808,x_0,y_0,c_fill "> CNN </a></p>
+  <p>3a.) <a href = "https://www.asiaodysseytravel.com/images/china-tours/group-tours/the-bund-700-13.jpg"> Asia Odyssey Travel </a></p>
+  <p>3b.) <a href = "https://www.alexisjetsets.com/wp-content/uploads/2019/09/the-bund-shanghai-alexisjetsets-2-e1568976232366.jpg"> Alexis Jetsets </a></p>
+  <p>4a.) <a href = "https://ltl-shanghai.com/wp-content/sites/12/2023/03/garden_optimized-1280x720.jpg"> LTL International School </a></p>
+  <p>4b.) <a href = "https://www.tripsavvy.com/thmb/egwSK1cCEFgoCIA7lC5HNHfRTfg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/night-view-of-yu-garden-in-shanghai-584838896-5a991b3031283400374fe855.jpg"> Tripsavy</a> </p>
+  <p>5a.) <a href = "https://media.cnn.com/api/v1/images/stellar/prod/170810131459-victoria-peak-hong-kong.jpg?q=w_3000,h_1943,x_0,y_0,c_fill"> CNN</a></p>
+  <p>5b.) <a href = "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/c9/50/88/photo3jpg.jpg?w=1200&h=-1&s=1">Tripadvisor</a></p>
+</body>
+</html>
