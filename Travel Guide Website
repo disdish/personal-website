@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css" /> 
+    <title>Travel Guide Asia</title>
+  </head>
+  <body>
+    <h1>Welcome to Travel Guide! (Asia version) </h1>
+    <h3>Scroll down and find 4 different countries!</h3>
+    <h4>Click on the country title for more photos and info!</h4>
+    <br>
+    <img src="https://josiewanders.com/wp-content/uploads/2018/09/Asia-Page-Header-e1647000062477.jpg">
+    <br> 
+    <p>Asia is one of the 7 continents in the world, and is the largest in both land size and population. Asia is the largest of the world's continents, covering approximately 30 percent of the Earth's land area. It is also the world's most populous continent, with roughly 60 percent of the total population. Asia makes up the eastern portion of the Eurasian supercontinent; Europe occupies the western portion.</p>
+    <p><b> Information was taken from  the <a href = "https://education.nationalgeographic.org/resource/asia-resources/"> National Greographic </a></p></b>
+    <br><br>
+    <img src="https://www.datocms-assets.com/32623/1660060831-safetravelinda_hero.jpg">
+    <p>India</p>
+    <br>
+    <img src = "https://www.state.gov/wp-content/uploads/2019/04/China-2107x1406-1.jpg">
+    <p>China</p>
+    <br>
+    <img src = "https://static.independent.co.uk/2023/05/03/17/iStock-1202982084.jpg">
+    <p>Indonesia</p>
+    <br>
+    <img src = https://www.mensjournal.com/.image/t_share/MTk3ODA1Njk5NjgwNDQ1NzQx/japancitiesmain2023.jpg>
+    <p>Japan</p>
+  </body>
+</html>
