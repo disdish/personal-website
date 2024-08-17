@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css" /> 
+  <title>Travel Cyprus </title>
+</head>
+<body>
+  <h1>Cyprus</h1> 
+  <h2>These are 5 of the most recommended places to visit in the whole of Cyprus </h2>
+  <h3>Cyprus is an island country in the Middle East in the Eastern Mediterranean Sea. Nearby countries include Turkey, Syria, and Lebanon. Geographically, Cyprus is a central plain with mountains to the north and south.</h3>
+  <h5>Information from: <a href = "https://globaledge.msu.edu/countries/cyprus#:~:text=Cyprus%20is%20an%20island%20country,to%20the%20north%20and%20south."> Global Edge </a></h5>
+  <br> 
+  <h3>1.) Nissi Beach </h3>
+  <img src = "https://nissi-beach.com/wp-content/uploads/2020/11/NissiBeach-39-1-1620x600.jpg" height = 200, width = 300>
+  <img src = "https://www.cyprusvillas.com/static/img/articles/cyprus-nissi-beach.jpg" height = 200, width = 300>
+  <h4>Covered in fine, golden sands, the beach is formed inside a natural bay, and has shallow and calm seawaters that are sheltered against winds. It forms part of the larger Nissi Beach area, and takes its name from the small island ('nissi' in Greek) that is located nearby.</h4>
+  <p>Information from: <a href = "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/498-nissi-beach-blue-flag#:~:text=Covered%20in%20fine%2C%20golden%20sands,Greek)%20that%20is%20located%20nearby.">Visit Cyprus</a></p>
+  <br> 
+  <h3>2.) Cape Cavo Greco </h3>
+  <img src = "https://in-cyprus.philenews.com/wp-content/uploads/2020/03/11111111.jpg" height = 200, width = 300>
+  <img src = "https://www.cyprusalive.com/img/ckeditor/kavo-gkreko0jpg.jpg" height = 200, width = 300>
+  <h4>It is the easternmost point of both the Republic of Cyprus and the European Union. According to local legend, it is also the home of the 'Ayia Napa sea monster'. The cape was known as Cape Pedalion (Greek: Πηδάλιον) in the antiquity. According to Strabo the trapezoidal hill lying above it was sacred to Aphrodite.</h4>
+  <p>Information from: <a href = "https://en.wikipedia.org/wiki/Cape_Greco#:~:text=It%20is%20the%20easternmost%20point,'Ayia%20Napa%20sea%20monster'.&text=The%20cape%20was%20known%20as,it%20was%20sacred%20to%20Aphrodite.">Wikipedia</a></p>
+  <br>
+  <h3>3.) Kolossi Castle </h3>
+  <img src = "https://www.historyhit.com/app/uploads/2021/04/Kolossi-Castle.jpg" height = 200, width = 300>
+  <img src = "https://allaboutlimassol.com/en/assets/components/phpthumbof/cache/kolossi-castle-5.684247982f17ae2fe213fdbc7968695d.png" height = 200, width = 300>
+  <h4>The castle today consists of a single three-storey square keep, 21m high and with dimensions 17x17m. It has an attached rectangular enclosure or bailey about 30 by 40 metres (98 by 131 ft). As well as for its sugar, the area is also known for its sweet wine, Commandaria.</h4>
+  <p>Information from: <a href = "https://en.wikipedia.org/wiki/Kolossi_Castle#:~:text=The%20castle%20today%20consists%20of,for%20its%20sweet%20wine%2C%20Commandaria.">Wikipedia</a></p>
+  <br>
+  <h3>4.) Fig Tree </h3>
+  <img src = "https://greekcitytimes.com/wp-content/uploads/2019/08/aerial-grace-bay-beach_600x400.jpg" height = 200, width = 300>
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/d/d6/Fig_Tree_Bay.jpg" height = 200, width = 300>
+  <h4>Fig Tree Bay is the most popular beach in Protaras. The bay is named after the solitary fig tree which stands at the headland of the beach and has overlooked the bay ever since its arrival with eastern invaders in the 17th century. Fig-tree bay is Protaras’ coastal jewel in the crown. Its crystal clear waters and fine-grained, golden sand has made the beach very popular</h4>
+  <p>Information from: <a href = "https://chooseyourcyprus.com/fig-tree-bay/#:~:text=Fig%20Tree%20Bay%20is%20the,invaders%20in%20the%2017th%20century."> Choose Your Cyprus</a></p>
+  <br>
+  <h3>5.) Landmark of Hala Sultan Tekke </h3>
+  <img src = "https://larnakaregion.com/storage/app/media/explore/RELIGIOUS%20MONUMENTS%20SMALL%20SIZE%20PICS/SMALL%20TEKKE%20BIRDS%20EYE.jpeg" height = 200, width = 300>
+  <img src = "https://cdn.cy/1:6b7165fa/63c1703f1321a.png/w=1068,h=400,dpr=2" height = 200, width = 300>
+  <h4>Hala Sultan Tekke complex is composed of a mosque, mausoleum, cemetery, and living quarters for men and women. The term tekke (lodge) applies to a building designed specifically for gatherings of a Sufi brotherhood, or tariqa, and may have referred to an earlier feature of the location.</h4>
+  <p>Information from: <a href = "https://en.wikipedia.org/wiki/Hala_Sultan_Tekke#:~:text=Hala%20Sultan%20Tekke%20complex%20is,earlier%20feature%20of%20the%20location.">Wikipedia</a></p>
+  <br> 
+  <h2> <a href = "https://0db0074c-2edb-4343-9d31-3a671f86a05a-00-34e4bgh61c90f.picard.replit.dev/"> Return back to home page </a></h2>
+  <br><br><br> 
+  <p> Disclaimer: All sources have been cited for this coding project. Credits to all the original posters of information. </p>
+  <br> 
+  <p> Photo sources (in order): </p>
+  <p>1a.) <a href = "https://nissi-beach.com/"> Nissi Beach Resort </a> </p>
+  <p>1b.) <a href = "https://www.cyprusvillas.com/nissi-beach.html"> Cyprus Villas </a></p>
+  <p>2a.) <a href = "https://in-cyprus.philenews.com/whats-on/cavo-greco-serenity-tranquillity-and-stunning-beauty/" > in-Cyprus</a></p>
+  <p>2b.) <a href = "https://www.cyprusalive.com/en/location/cape-greco"> Cyprus Alive.com</a></p>
+  <p>3a.) <a href = "https://www.historyhit.com/locations/kolossi-castle/"> HistoryHit</a></p>
+  <p>3b.) <a href = "https://allaboutlimassol.com/en/kolossi-castle"> Limassol </a></p>  
+  <p>4a.) <a href = "https://greekcitytimes.com/2019/08/19/cyprus-fig-tree-bay-ranked-3rd-worlds-top-50-beaches/"> Greek City Times </a></p>
+  <p>4b.) <a href = "https://en.wikipedia.org/wiki/Fig_Tree_Bay"> Wikipedia </a></p>
+  <p>5a.) <a href = "https://larnakaregion.com/directory/product/hala-sultan-tekke-mosque">Larnaka Tourism Board</a></p>
+  <p>5b.) <a href = "https://land.cy/de/artikel/hala-sultan-tekke-world-heritage-site">Land.cy</a></p>
+</body>
+</html>
