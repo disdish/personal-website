@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css" /> 
+  <title>Travel Vietnam </title>
+</head>
+
+<body> 
+  <h1>Vietnam</h1> 
+  <h2>These are 5 of the most recommended places to visit in the whole of Vietnam </h2>
+  <h3>Vietnam is a long, narrow nation shaped like the letter s. It is in Southeast Asia on the eastern edge of the peninsula known as Indochina. Its neighbors include China to the north and Laos and Cambodia to the west. The South China Sea lies to the east and south.</h3>
+  <h5>Information from: <a href = "https://kids.nationalgeographic.com/geography/countries/article/vietnam#:~:text=use%20is%20prohibited.-,Vietnam%20is%20a%20long%2C%20narrow%20nation%20shaped%20like%20the%20letter,to%20the%20east%20and%20south."> National Geographic Kids </a></h5>
+  <br> 
+  <h3>1.) Cu Chi Tunnel </h3>
+  <img src = "https://statics.vinpearl.com/cu-chi-tunnels-8_1689392552.jpg" height = 200, width = 300>
+  <img src = "https://sawasdee.thaiairways.com/wp-content/uploads/2023/04/shutterstock_690459592.jpg" height = 200, width = 300>
+  <h4>The Cu Chi Tunnels evolved into a complex system, resembling entire underground villages with living areas, kitchens, hospitals, ammunition storage, command rooms, and bomb shelters. Not only did these tunnels serve as a means of survival, but they also functioned as a base for launching Communist attacks, including the successful Tet Offensive. Today, the Cu Chi Tunnels are preserved and serve as a significant historical site and tourist attraction. Visitors have the opportunity to explore a portion of the tunnels, gaining insights into the history of the Vietnam War and the ingenious tactics employed by the Viet Cong.</h4>
+  <p>Information from: <a href = "https://www.traveltalktours.com/us/short-guide-to-vietnams-cu-chi-tunnels/#:~:text=The%20Cu%20Chi%20Tunnels%20evolved,command%20rooms%2C%20and%20bomb%20shelters.">Travel Talk Tours</a></p>
+  <br> 
+  <h3>2.) Hạ Long Bay </h3>
+  <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSumnWsxdjUEqg6QogLS7KzSNYF4WsS2F00IQ&s" height = 200, width = 300>
+  <img src = "https://www.getvisavietnam.com/wp-content/uploads/2024/01/Luon-Cave-in-Halong-Bay.jpg" height = 200, width = 300>
+  <h4>Covering an area of 65,650 ha and including 1,133 islands and islets, Ha Long Bay - Cat Ba Archipelago is located in the Northeast of Viet Nam, within Quang Ninh Province and Hai Phong City. Comprised of a multitude of limestone islands of islets rising from the sea, in a variety of sizes and shapes and presenting picturesque, unspoiled nature, Ha Long Bay - Cat Ba Archipelago is a spectacular seascape sculpted by nature. As the most extensive and best known example of marine - invaded tower karst, Ha Long Bay - Cat Ba Archipelago is one of the world’s mots important areas of fengcong (clusters of conical peaks) and fenglin (isolated tower features) karst. Additionally, the exceptionally beautiful landscape is also dominated by the typical ecosystems.</h4>
+  <p>Information from: <a href = "https://whc.unesco.org/en/list/672/"> UNESCO</a></p>
+  <br>
+  <h3>3.) Hanoi </h3>
+  <img src = "https://i.natgeofe.com/n/0517b9c0-67fa-4212-acbd-4e305a50d915/hanoi1-seedo-train-street-6hr.jpg?w=748&h=498" height = 200, width = 300>
+  <img src = "https://pullman.accor.com/destinations/city/hanoi-1400x788-3.jpg" height = 200, width = 300>
+  <h4>Hanoi, located on the banks of the Red River, is one of the world's most ancient capitals. The moment you arrive in the Vietnamese capital, you'll find streets within the city centre where well-preserved colonial buildings, ancient pagodas, and unique museums stand proud. A great place to explore and go sightseeing on foot, this French-colonial city is also known for its delectable cuisine, vibrant nightlife, and production of rare silks and exotic handicrafts. Within the city, you’ll also find a multicultural community with touches of Chinese, French, and Russian influences.</h4>
+  <p>Information from: <a href = "https://www.hotels.com/go/vietnam/hanoi">Hotels.com</a></p>
+  <br>
+  <h3>4.) Dong Ba Market </h3>
+  <img src = "https://www.vietvisiontravel.com/wp-content/uploads/2019/10/Fruit-and-vegetable-vendors-in-Dong-Ba-Market.jpg" height = 200, width = 300>
+  <img src = "https://www.diariesofwanderlust.com/wp-content/uploads/2013/11/hue-vietnam-dong-ba-market-0001.jpg" height = 200, width = 300>
+  <h4>Dong Ba Market in Hue, Vietnam, is a vibrant and authentic destination. This bustling market offers a plethora of colorful stalls, local delicacies, and friendly vendors. From fresh produce to traditional dishes, it's a sensory delight. While it can get crowded, the experience is worth it. Immerse yourself in the vibrant atmosphere of Dong Ba Market and discover the heart of Hue.</h4>
+  <p>Information from: <a href = "https://www.tripadvisor.com/Attraction_Review-g293926-d2519037-Reviews-Dong_Ba_Market-Hue_Thua_Thien_Hue_Province.html"> Tripadvisor</a></p>
+  <br> 
+  <h3>5.) Ban Gioc Waterfalls</h3>
+  <img src = "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/37/92/1b.jpg" height = 200, width = 300>
+  <img src = "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/cd/f4/c8/caption.jpg?w=1200&h=-1&s=1" height = 200, width = 300>
+  <h4>The waterfall drops 30 m (98 ft). It is separated into three falls by rocks and trees, and the thundering effect of the water hitting the cliffs can be heard from afar. It is currently the 4th largest waterfall along a national border, after Iguazu Falls, Victoria Falls, and Niagara Falls.</h4>
+  <p>Information from: <a href = "https://en.wikipedia.org/wiki/Ban_Gioc%E2%80%93Detian_Falls#:~:text=The%20waterfall%20drops%2030%20m,Victoria%20Falls%2C%20and%20Niagara%20Falls.">Wikipedia</a></p>
+  <br> 
+  <h2> <a href = "https://0db0074c-2edb-4343-9d31-3a671f86a05a-00-34e4bgh61c90f.picard.replit.dev/"> Return back to home page </a></h2>
+  <br><br><br> 
+  <p> Disclaimer: All sources have been cited for this coding project. Credits to all the original posters of information. </p>
+  <br> 
+  <p> Photo sources (in order): </p>
+  <p>1a.) <a href = "https://vinpearl.com/en/cu-chi-tunnels-discover-the-largest-underground-tunnels-in-vietnam"> Vinpearl </a> </p>
+  <p>1b.) <a href = "https://sawasdee.thaiairways.com/a-visit-to-the-spine-chilling-tunnels-of-cu-chi/"> Thai Sawasdee </a></p>
+  <p>2a.) <a href = "https://en.wikipedia.org/wiki/H%E1%BA%A1_Long_Bay" > Wikipedia</a></p>
+  <p>2b.) <a href = "https://www.getvisavietnam.com/halong-bay-travel-guide/"> Get Visa Vietnam</a></p>
+  <p>3a.) <a href = "https://www.nationalgeographic.com/travel/article/hanoi-guide-vietnam-beguiling-capital"> National Geographic </a></p>
+  <p>3b.) <a href = "https://pullman.accor.com/gb/destinations/vietnam/hanoi-city-guide.shtml"> Pullman Hotel </a></p>  
+  <p>4a.) <a href = "https://www.thatch.co/places/92957/dong-ba-market"> Thatch </a></p>
+  <p>4b.) <a href = "https://www.diariesofwanderlust.com/the-dong-ba-market/"> Diaries of Wonderlust </a></p>
+  <p>5a.) <a href = "https://www.viator.com/tours/Hanoi/Ba-Be-Lake-Ban-Gioc-Waterfall-Group-Tour-3-Days-2-Nights/d351-105035P11">Viator</a></p>
+  <p>5b.) <a href = "https://www.tripadvisor.com/AttractionProductReview-g293924-d14130247-3_day_Ban_Gioc_Waterfall_Ba_Be_Lake_from_Hanoi_All_Inclusive-Hanoi.html">Tripadvisor</a></p>
+</body>
+</html>
