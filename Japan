@@ -1,0 +1,59 @@
+  <!DOCTYPE html>
+  <html>
+  <head>
+    <link rel="stylesheet" href="style.css" /> 
+    <title>Travel Japan</title>
+  </head>
+<body>
+  <h1>Japan</h1>
+  <h2>These are 5 of the most recommended places to visit in the whole of Japan</h2>
+  <h3>Japan is a mountainous country, with two-thirds of its territory covered with forests. Most areas have a temperate climate with four distinct seasons, although Okinawa in the south is subtropical, and Hokkaido in the north is subarctic. Therefore Japan has great diversity of plant and animal life.</h3>
+  <h5> Information from: <a href = "https://www.mofa.go.jp/territory/page1we_000006.html#:~:text=Japan%20is%20a%20mountainous%20country,of%20plant%20and%20animal%20life.">Minestry of Foreign Affairs of Japan </a></h5>
+<br> 
+  <h3>1.) Sensō-ji Temple</h3>
+  <img src = "https://en.japantravel.com/photo/poi-5-214199/1200x630/tokyo-sensoji-temple-214199.jpg" height = 200, width = 300> 
+  <img src = "https://mediaim.expedia.com/destination/1/2cb04e01287e3732df1f409619bacee5.jpg" height = 200, width = 300> 
+  <h4>Sensoji is perhaps the most famous and photographed of Tokyo's temples. It is the oldest Buddhist temple in the capital, and the five-story pagoda, trails of incense and vast eaves will take you back to a Tokyo of time gone by.</h4>
+  <p>Information from: <a href = "https://www.gotokyo.org/en/spot/15/index.html#:~:text=Sensoji%20is%20perhaps%20the%20most,Tokyo%20of%20time%20gone%20by.">Go Tokyo</a></p>
+  <br>
+  <h3>2.) Osaka Castle</h3> 
+  <img src = "https://resources.matcha-jp.com/resize/720x2000/2023/03/28-136333.webp" height = 200, width = 300> 
+  <img src = "https://photos.smugmug.com/Osaka/Osaka-Castle-Area/i-CNFxkPB/0/bfc2f5a8/XL/OsakaCastleArea_TSD_OsakaCastle6-XL.jpg" height = 200, width = 300> 
+  <h4>Osaka Castle sits on a hill and towers above many contemporary office buildings. It is surrounded by a huge park with pleasant picnic areas, making it a perennial favorite in spring during the hanami (cherry blossom viewing) season.</h4>
+  <p>Information from: <a href = "https://www.japan.travel/en/spot/1087/#:~:text=Osaka%20Castle%20sits%20on%20a,(cherry%20blossom%20viewing)%20season.">Japan.Endless Discovery</a></p>
+  <br> 
+  <h3>3.) Arashiyama Bamboo Forest </h3>
+  <img src = "https://photos.smugmug.com/Kyoto/Kyoto-Things-To-Do/i-X4SbQPn/0/L/arashiyama-bamboo-grove-M.jpg" height = 200, width = 300>
+  <img src = "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/86/63/9a/e-uno-dei-luoghi-che.jpg?w=1200&h=1200&s=1" height = 200, width = 300> 
+  <h4>Arashiyama (嵐山, Storm Mountain) is a district on the western outskirts of Kyoto, Japan. It also refers to the mountain across the Ōi River, which forms a backdrop to the district. Arashiyama is a nationally designated Historic Site and Place of Scenic Beauty. </h4>
+  <p>Information from: <a href = "https://en.wikipedia.org/wiki/Arashiyama#:~:text=Arashiyama%20(%E5%B5%90%E5%B1%B1%2C%20Storm%20Mountain),and%20Place%20of%20Scenic%20Beauty.">Wikipedia</a></p> 
+  <br> 
+  <h3>4.) Tokyo Skytree </h3>
+  <img src = "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/da/c4/d0/caption.jpg?w=800&h=-1&s=1" height = 200, width = 300> 
+  <img src = "https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/4/2014/12/skytree-bridge-1024x768.jpg" height = 200, width = 300> 
+  <h4>Tokyo Sky Tree, broadcasting and telecommunications tower in Tokyo. At a height of 2,080 feet (634 metres), it was the world's second tallest structure, after the Burj Khalifa in Dubai, at the time of its opening on May 22, 2012.</h4> 
+  <p>Information from: <a href = "https://www.britannica.com/topic/Tokyo-Sky-Tree">Britannica</a></p>
+  <br> 
+  <h3>5.) Universal Studios Japan </h3>
+  <img src = "https://cdn.cheapoguides.com/wp-content/uploads/sites/3/2019/08/USJ-Osaka-iStock-ymgerman-1024x752.jpg" height = 200, width = 300>
+  <img src = "https://www.therealjapan.com/wp-content/uploads/2023/06/Osaka-city-guide-USJ-Universal-Studios-Japan-Super-Nintendo-World.jpg" height = 200, width = 300>
+  <h4>The park is owned and operated by USJ LLC, a wholly owned subsidiary of NBCUniversal. The park is similar in layout to Universal Studios Florida and contains selected attractions from both Universal Orlando and Universal Studios Hollywood, in addition to a small number of unique attractions.</h4>
+  <p>Information from: <a href = "https://en.wikipedia.org/wiki/Universal_Studios_Japan#:~:text=The%20park%20is%20owned%20and,small%20number%20of%20unique%20attractions.">Wikipedia</a></p>
+  <br> 
+  <h2> <a href = "https://0db0074c-2edb-4343-9d31-3a671f86a05a-00-34e4bgh61c90f.picard.replit.dev/"> Return back to home page </a></h2>
+  <br><br><br> 
+  <p> Disclaimer: All sources have been cited for this coding project. Credits to all the original posters of information. </p>
+  <br>
+  <p> Photo sources (in order): </p>
+  <p>1a.) <a href = "https://en.japantravel.com/places/tokyo/sensoji-temple/5"> Japan Travel</a> </p>
+  <p>1b.) <a href = "https://www.expedia.com/Sensoji-Temple-Asakusa.d6076420.Vacation-Attraction"> Expedia </a></p>
+  <p>2a.) <a href = "https://matcha-jp.com/en/5882">Matcha</a></p>
+  <p>2b.) <a href = "https://insideosaka.com/osaka-castle/">Inside Osaka </a></p>
+  <p>3a.) <a href = "https://www.insidekyoto.com/arashiyama">Inside Kyoto</a></p>
+  <p>3b.) <a href = "https://www.tripadvisor.com/Attraction_Review-g298564-d545940-Reviews-Arashiyama-Kyoto_Kyoto_Prefecture_Kinki.html">Tripadvisor</a></p>
+  <p>4a.) <a href = "https://www.tripadvisor.com/Articles-lgzHuTH1gDe4-The_ultimate_itinerary_around_the_tokyo_skytree.html">Tripadvisor</a></p>
+  <p>4b.) <a href = "https://blog.gaijinpot.com/tokyo-skytree">GaijinPot Blog</a></p>
+  <p>5a.) <a href = "https://japancheapo.com/entertainment/saving-money-universal-studios-japan/">Japan Cheapo</a></p>
+  <p>5b.) <a href = "https://www.therealjapan.com/universal-studios-japan-2024-guide-hiroshima-city-guide/">The Real Japan</a></p>
+</body>
+</html>
