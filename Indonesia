@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css" /> 
+  <title>Travel Indonesia </title>
+</head>
+<body>
+  <h1>Indonesia</h1>
+  <h2>These are 5 of the most recommended places to visit in the whole of Indonesia </h2>
+  <h3>The Republic of Indonesia is located between the continents of Asia and Australia. It comprises 16,056 islands, with 34 provinces spreading over five main islands and four archipelagos. The five main islands include Sumatra, Java, Kalimantan, Sulawesi and Papua.</h3>
+  <h5>Information from: <a href = "https://www.eyeonasia.gov.sg/asean-countries/know/overview-of-asean-countries/indonesia-a-country-profile/#:~:text=The%20Republic%20of%20Indonesia%20is,%2C%20Kalimantan%2C%20Sulawesi%20and%20Papua."> Eye on Asia </a></h5>
+  <br> 
+  <h3>1.) Blue Lagoon </h3>
+  <img src = "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/dd/e6/35/photo2jpg.jpg?w=700&h=-1&s=1" height = 200, width = 300>
+  <img src = "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/8f/b8/09/beach-club.jpg?w=700&h=-1&s=1" height = 200, width = 300>
+  <h4>Blue Lagoon Beach occupies a small bay about 1.5 km northeast of Padang Bai Port. Framed by green and rocky hills on both sides, this hidden beach attracts those looking for a quiet tropical holiday. You can snorkel right off from the coastline to find thriving coral just a few metres away.</h4>
+  <p>Information from: <a href = "https://uk.hotels.com/go/indonesia/blue-lagoon-beach">Hotels.com</a></p>
+  <br> 
+  <h3>2.) Borobudur Temple </h3>
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/2/25/Pradaksina.jpg" height = 200, width = 300>
+  <img src = "https://cdn.audleytravel.com/2531/1808/79/1009708-borobudur-yogyakarta.jpg" height = 200, width = 300>
+  <h4>This famous Buddhist temple, dating from the 8th and 9th centuries, is located in central Java. It was built in three tiers: a pyramidal base with five concentric square terraces, the trunk of a cone with three circular platforms and, at the top, a monumental stupa.</h4>
+  <p>Information from: <a href = "https://whc.unesco.org/en/list/592/#:~:text=This%20famous%20Buddhist%20temple%2C%20dating,the%20top%2C%20a%20monumental%20stupa.">UNESCO</a></p>
+  <br>  
+  <h3>3.) Phi Phi Island </h3>
+  <img src = "https://simbaseatrips.com/wp-content/uploads/2023/07/things-to-do-in-phi-phi-island.jpg" height= 200, width = 300>
+  <img src = "https://www.agoda.com/wp-content/uploads/2024/02/Aerial-view-of-Maya-bay-in-Phi-phi-island-Thailand.jpg" height = 200, width = 300> 
+  <h4>Phi Phi has pristine beaches, stunning rock formations, and vivid turquoise waters teeming with colorful marine life. The larger and inhabited Phi Phi Don attracts hundreds of travelers to its lovely shores, while the smaller uninhabited Phi Phi Leh has beautiful bays and beaches, including the iconic Maya Bay.</h4>
+  <p>Information from: <a href = "https://www.hotels.com/go/thailand/phi-phi">Hotels.com</a></p>
+  <br>
+  <h3>4.) Tanah lot</h3>
+  <img src = "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/07/a3/81/e3.jpg" height = 200, width = 300> 
+  <img src = "https://www.thecolonyhotelbali.com/wp-content/uploads/2016/07/Tanah-Lot-Temple-A-Guide.png" height = 200, width = 300> 
+  <h4>Tanah Lot temple is an ancient Hindu temple dedicated to the gods of the sea. The buildings were built after religious figure Dang Hyang Nirartha's sacred journey (tirtha yatra) to Bali in the fifteenth century and have never lost their original function.</h4>
+  <p>Information form: <a href = "https://www.wmf.org/project/tanah-lot-temple#:~:text=Tanah%20Lot%20temple%20is%20an,never%20lost%20their%20original%20function.">World Monuments Fund</a></p>
+  <br> 
+  <h3>5.) Ubud</h3>
+  <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaBiofy6QsSESsHvzU62us_3AD8W6jPiQCqQ&s" height = 200, width = 300> 
+  <img src = "https://cf.bstatic.com/xdata/images/hotel/max1024x768/249980321.jpg?k=acc8132eab8d77aee43acdaf199979a72f67ea987b57e78d8c0391cfbfd21ec1&o=&hp=1" height = 200, width = 300> 
+  <h4>Ubud is a place where traditional Balinese culture imbues every waking moment, colorful offerings adorn the streets, and the hypnotic strains of gamelan are an ever-present soundtrack to everyday life.</h4>
+  <p>Information form: <a href = "https://www.lonelyplanet.com/indonesia/bali/ubud">Lonely Planet</a></p>
+  <br> 
+  <h2> <a href = "https://0db0074c-2edb-4343-9d31-3a671f86a05a-00-34e4bgh61c90f.picard.replit.dev/"> Return back to home page </a></h2>
+  <br><br><br> 
+  <p> Disclaimer: All sources have been cited for this coding project. Credits to all the original posters of information. </p>
+  <br> 
+  <p> Photo sources (in order): </p>
+  <p>1a.) <a href = "https://www.tripadvisor.com/Hotel_Review-g2538504-d13323509-Reviews-Blue_Lagoon_Secret_Villas-Nusa_Ceningan_Bali.html"> Tripadvisor</a> </p>
+  <p>1b.) <a href = "https://www.tripadvisor.com/Hotel_Review-g2538504-d15190127-Reviews-Blue_Lagoon_Avia_Villas-Nusa_Ceningan_Bali.html"> Tripadvisor </a></p>
+  <p>2a.) <a href = "https://en.wikipedia.org/wiki/Borobudur" > Wikipedia</a></p>
+  <p>2b.) <a href = "https://www.audleytravel.com/us/indonesia/things-to-do/borobudur-temple-complex"> Audley Travel </a></p>
+  <p>3a.) <a href = "https://simbaseatrips.com/"> Simba Sea Trips</a></p>
+  <p>3b.) <a href = "https://www.agoda.com/travel-guides/thailand/ko-phi-phi/discover-ko-phi-phi-your-ultimate-guide-to-thailands-island-paradise/"> Agoda </a></p>
+  <p>4a.) <a href = "https://www.tripadvisor.com/AttractionProductReview-g297701-d14801731-Tanah_Lot_and_North_Bali_Tour_Scenic_Journey-Ubud_Gianyar_Regency_Bali.html"> Tripadvisor </a></p>
+  <p>4b.) <a href = "https://www.thecolonyhotelbali.com/tanah-lot-temple/"> The Colony Hotel</a></p>
+  <p>5a.) <a href = "https://www.thomascook.in/blog/tours-and-travel/best-places-to-visit-in-ubud/"> Thomas Cook </a></p>
+  <p>5b.) <a href = "https://www.booking.com/hotel/id/aksari-ubud.html">Booking.com</a></p> 
+</body>
+</html>
