@@ -1,0 +1,60 @@
+ <!DOCTYPE html>
+  <html>
+  <head>
+    <link rel="stylesheet" href="style.css" /> 
+    <title>Travel Saudi Arabia </title>
+  </head>
+
+  <body> 
+    <h1>Saudi Arabia</h1> 
+    <h2>These are 5 of the most recommended places to visit in the whole of Saudi Arabia </h2>
+    <h3>The Kingdom of Saudi Arabia is the largest Arab country of the Middle East. It is bordered by Jordan and Iraq on the north and northeast, Kuwait, Qatar, Bahrain and the United Arab Emirates on the east, Oman on the southeast, and Yemen on the south.</h3>
+    <h5>Information from: <a href = "https://www.dfat.gov.au/geo/saudi-arabia/saudi-arabia-country-brief#:~:text=The%20Kingdom%20of%20Saudi%20Arabia,and%20Yemen%20on%20the%20south.">Australin Government </a></h5>
+    <br> 
+    <h3>1.) Uhud Mountain </h3>
+    <img src = "https://vid.alarabiya.net/images/2017/11/20/7b3392fd-c769-416f-b9f5-d9a761fefe69/7b3392fd-c769-416f-b9f5-d9a761fefe69_16x9_1200x676.jpg" height = 200, width = 300>
+    <img src = "https://i.redd.it/9ddb8z0c6wta1.jpg" height = 200, width = 300>
+    <h4>Mount Uhud (Arabic: جَبَل أُحُد, romanized: Jabal Uḥud, Hejazi Arabic pronunciation: [dʒa. bal ʔʊ. ħʊd]) is a mountain north of Medina, in the Hejazi region of Saudi Arabia. It is 1,077 m (3,533 ft) high and 7.5 km (4.7 mi) long. It was the site of the second battle between the Islamic prophet Muhammad and the polytheists of his tribe of Quraysh. The Battle of Uhud was fought on 19 March, 625 CE, between a force from the small Muslim community of Medina and a force from Mecca, in north-western Arabia.</h4>
+    <p>Information from: <a href = "https://en.wikipedia.org/wiki/Mount_Uhud#:~:text=Mount%20Uhud%20(Arabic%3A%20%D8%AC%D9%8E%D8%A8%D9%8E%D9%84%20%D8%A3%D9%8F%D8%AD%D9%8F%D8%AF,km%20(4.7%20mi)%20long."> Wikipedia </a></p>
+    <br> 
+    <h3>2.) Red Sea Mall </h3>
+    <img src = "https://www.traveldailynews.com/wp-content/uploads/2023/10/Joudyan-Red-Sea-Mall-Hotel-01.jpg" height = 200, width = 300>
+    <img src = "https://www.saqifatalsafa.com/wp-content/uploads/2016/11/DSC-9.jpg" height = 200, width = 300>
+    <h4>Your stop at Red Sea Mall will lead you to enjoy an unparalleled shopping experience, being one of the largest shopping malls on the west coast of the Kingdom with a floor area of 242,000 sqm, and an ideal destination near the waterfront.</h4>
+    <p>Information from: <a href = "https://www.visitsaudi.com/en/jeddah/attractions/redsea-mall#:~:text=Your%20stop%20at%20Red%20Sea,ideal%20destination%20near%20the%20waterfront."> Saudi Welcome to Arabia </a></p>
+    <br> 
+    <h3>3.) AlUla </h3>
+    <img src = "https://ik.imgkit.net/3vlqs5axxjf/TAW/ik-seo/uploadedImages/All_Destinations/AFME/Africa_-_Middle_East/AlulaSaudiArabia_Hero/What-to-Expect-in-AlUla-Saudi-Arabia.jpg?tr=w-1008%2Ch-567%2Cfo-auto" height = 200, width = 300>
+    <img src = "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/2c/bb/f3/caption.jpg?w=500&h=400&s=1" height = 200, width = 300>
+    <h4>Located 1,100km from Riyadh in north-west Saudi Arabia, AlUla is a place of extraordinary natural and human heritage. The vast area, covering 22,561km², includes a lush oasis valley, towering sandstone mountains and ancient cultural heritage sites dating back thousands of years. The most well-known and recognised site in AlUla is Hegra, Saudi Arabia’s first UNESCO World Heritage Site. A 52-hectare ancient city, Hegra was the principal southern city of the Nabataean Kingdom and is comprised of nearly 100 well-preserved tombs with elaborate facades cut into sandstone outcrops. Current research suggests Hegra was the most southern outpost of the Romans after conquering the Nabataeans in 106 CE.</h4>
+    <p>Information from: <a href = "https://www.rcu.gov.sa/en/about-us/about-alula/#:~:text=Located%201%2C100km%20from%20Riyadh,dating%20back%20thousands%20of%20years.">Royal Commission for AlUla</a></p>
+    <br> 
+    <h3>4.) Boulevard Riyadh City </h3>
+    <img src = "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2021/11/02/2892426-948690461.jpeg?itok=vcAuVqUZ" height = 200, width = 300>
+    <img src = "https://arabmls.org/wp-content/uploads/2024/04/brc6.jpg" height = 200, width = 300>
+    <h4>The Boulevard City (BLVD CITY) (Arabic: بوليفارد سيتي, romanized: Būlīfārd Sītī), formerly Boulevard Riyadh City[1] and simply known as The Boulevard, is a 220-acre (89 ha) mixed-use development at the Prince Turki al-Awwal Road in the Hittin neighborhood of Riyadh, Saudi Arabia, containing high-end retail and entertainment outlets. </h4>
+    <p>Information from: <a href = "https://en.wikipedia.org/wiki/Boulevard_City#:~:text=The%20Boulevard%20City%20(BLVD%20CITY,containing%20high%2Dend%20retail%20and">Wikipedia</a></p>
+     <br> 
+    <h3>5.) Jabal Al Nour </h3>
+    <img src = "https://saudigazette.com.sa/uploads/images/2017/12/07/621046.jpeg" height = 200, width = 300>
+    <img src = "https://upload.wikimedia.org/wikipedia/commons/4/42/Jabbal_An-Nour_-_Makkah_%282241558560%29.jpg" height = 200, width = 300>
+    <h4>Jabal al-Nour (Arabic: جَبَل ٱلنُّوْر, romanized: Jabal an-Nūr, lit. 'Mountain of the Light' or 'Hill of the Illumination') is a mountain near Mecca in the Hejaz region of Saudi Arabia. The mountain houses the grotto or cave of Hira (Arabic: غَار حِرَاء, romanized: Ghar-i-Hira, lit.</h4>
+    <p>Information from: <a href = "https://en.wikipedia.org/wiki/Jabal_al-Nour#:~:text=Jabal%20al%2DNour%20(Arabic%3A,%2Di%2DHira%2C%20lit.">Wikipedia</a></p>
+  <br> 
+  <h2> <a href = "https://0db0074c-2edb-4343-9d31-3a671f86a05a-00-34e4bgh61c90f.picard.replit.dev/"> Return back to home page </a></h2>
+  <br><br><br> 
+  <p> Disclaimer: All sources have been cited for this coding project. Credits to all the original posters of information. </p>
+  <br> 
+  <p> Photo sources (in order): </p>
+  <p>1a.) <a href = "https://english.alarabiya.net/features/2017/11/20/Mountain-of-Uhud-continues-to-tell-story-of-the-prophecy"> Alarabiya News </a> </p>
+  <p>1b.) <a href = "https://www.reddit.com/r/islam/comments/12lx0zx/the_prophet_%EF%B7%BA_said_uhud_is_a_mountain_that_loves/"> Reddit </a></p>
+  <p>2a.) <a href = "https://www.saqifatalsafa.com/en/2016/11/02/red-sea-mall/" > Saqifat al Safa</a></p>
+  <p>2b.) <a href = "https://www.traveldailynews.com/hotels-lodging/elaf-group-officially-opens-joudyan-red-sea-mall-hotel/"> Travel Daily News International</a></p>
+  <p>3a.) <a href = "https://www.travelagewest.com/Travel/Africa-Middle-East/alula-saudi-arabia"> Travel Age West</a></p>
+  <p>3b.) <a href = "https://www.tripadvisor.com/Attractions-g1802184-Activities-c42-AlUla_Al_Madinah_Province.html"> Tripadvisor </a></p>  
+  <p>4a.) <a href = "https://www.arabnews.com/node/1959801/saudi-arabia"> ArabNews </a></p>
+  <p>4b.) <a href = "https://arabmls.org/boulevard-riyadh-city/"> Arab MLS </a></p>  
+  <p>5a.) <a href = "https://saudigazette.com.sa/article/523657">Saudi Gazette</a></p>
+  <p>5b.) <a href = "https://en.wikipedia.org/wiki/Jabal_al-Nour">Wikipedia</a></p>
+</body>
+</html>
