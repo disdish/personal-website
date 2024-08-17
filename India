@@ -8,7 +8,7 @@
   <h1>India!</h1>
   <h2>These are 5 of the most recommended places to visit in the whole of India </h2>
   <h3> India has a unique culture and is one of the oldest and greatest civilizations of the world. India has achieved all-round socio-economic progress since its Independence. India covers an area of 32,87,263 sq. km, extending from the snow-covered Himalayan heights to the tropical rain forests of the south. </h3>
-  <h5> Information from: <a href = "https://knowindia.india.gov.in/profile/india-at-a-glance.php#:~:text=India%20has%20a%20unique%20culture,rain%20forests%20of%20the%20south."> Know India </a> and <a href = "https://www.lonelyplanet.com/articles/top-things-to-do-in-india"> Lonely Planet </a></h5> 
+  <h5> Information from: <a href = "https://knowindia.india.gov.in/profile/india-at-a-glance.php#:~:text=India%20has%20a%20unique%20culture,rain%20forests%20of%20the%20south."> Know India </a></h5> 
   <br> 
   <h3>1.) Taj Mahal </h3>
   <img src = "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-107765819/107765819.jpg" height = 200, width = 300>
@@ -42,5 +42,18 @@
   <br>
   <h2> <a href = "https://0db0074c-2edb-4343-9d31-3a671f86a05a-00-34e4bgh61c90f.picard.replit.dev/"> Return back to home page </a></h2>
   <br><br><br> 
+  <p> Disclaimer: All sources have been cited for this coding project. Credits to all the original posters of information. </p>
+  <br> 
+  <p> Photo sources (in order): </p>
+  <p>1a.) <a href = "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-107765819/107765819.jpg"> Times of India</a> </p>
+  <p>1b.) <a href = "https://i.pinimg.com/originals/53/30/5d/53305d5e1da591b8dcbc548178280604.jpg"> Pintrest </a></p>
+  <p>2a.) <a href = "https://jonistravelling.com/hampi-travel-guide-exploring-some-of-indias-best-ancient-ruins/">JonisTravelling</a></p>
+  <p>2b.) <a href = "https://media.easemytrip.com/media/Blog/India/637925291200301189/637925291200301189vFcpbK.jpg">Ease My Trip</a></p>
+  <p>3a.) <a href = "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/f0/goa.jpg?w=1400&h=1400&s=1">Tripadvisor</a></p>
+  <p>3b.) <a href = "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/3e/36/95/baga-sea-beach.jpg?w=600&h=400&s=1">Tripadvisor</a></p>
+  <p>4a.) <a href = "https://www.gsd.harvard.edu/wp-content/uploads/2017/08/Ors-Ausin_J_MDes_img1.jpg">University of Harvard Graduate School of Design</a></p>
+  <p>4b.) <a href = "https://theheritageart.com/wp-content/uploads/2022/11/gateway-of-india.jpeg">The Heritage Art</a></p>
+  <p>5a.) <a href = "https://www.dsource.in/sites/default/files/styles/gallary_images__565_x_800__/public/gallery/18636/3.jpg?itok=vKobBqdU">D'source </a></p>
+  <p>5b.) <a href = "https://www.tourmyindia.com/states/delhi/images/sarojini-nagar-shopping-market1-1.jpg">Tour My India </a>
 </body>
 </html>
