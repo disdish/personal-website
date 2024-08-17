@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css" /> 
+  <title>Travel Philippines </title>
+</head>
+
+<body>
+  <h1>Philippines</h1> 
+  <h2>These are 5 of the most recommended places to visit in the whole of the Philippines </h2>
+  <h3> Philippines, island country of Southeast Asia in the western Pacific Ocean. It is an archipelago consisting of more than 7,000 islands and islets lying about 500 miles (800 km) off the coast of Vietnam. Manila is the capital, but nearby Quezon City is the country's most-populous city. </h3>
+  <h5>Information from: <a href = "https://www.britannica.com/place/Philippines">Britannica</a></h5>
+  <br> 
+  <h3>1.) Fort Santiago</h3>
+  <img src = "https://visitfortsantiago.com/wp-content/uploads/2019/02/rotator3.jpeg" height = 200, width = 300>
+  <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-BUucSrCuQqqLi-kOFpKY4SkFvhXpLQ6HHA&s" height = 200, width = 300>
+  <h4>Fort Santiago is one of the oldest fortifications in Manila built by the Spaniards in 1571 from what was once a palisaded structure of logs and earth built by Rajah Soliman on the native settlement called Maynila. The colonizers recognized that the tongue of land where the Pasig River flowed into the Manila Bay was a very strategic location. The fort was destroyed in 1574 during the Chinese attack led by Limahong. The stone fort was built between 1589 and 1592 and was repaired and extended after being damaged by the 1645 earthquake.</h4>
+  <p>Information from: <a href = "https://intramuros.gov.ph/fs/#:~:text=Fort%20Santiago%20is%20one%20of,the%20native%20settlement%20called%20Maynila."> Republic of the Philippines</a></p>
+  <br> 
+  <h3>2.) Kawasan Falls</h3>
+  <img src = "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/42/d9/0b/kawasan-falls.jpg?w=1200&h=-1&s=1" height = 200, width = 300>
+  <img src = "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1200,h_630/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/knomeu1agf73xcpyfzk8/Badian%20Canyoneering%20in%20Cebu%20and%20Kawasan%20Waterfalls%20Tour.jpg" height = 200, width = 300>
+  <h4>The Kawasan Falls is a three-stage cascade of clear turquoise water from mountain springs located in the jungles of the Cebu island. The falls are part of the Kawasan River in Badian, Cebu, in the Philippines.The water from the falls originates from the Kabukalan Spring and passes through the Kawasan gorge en route to the Matutinao River and the Tanon Strait. The largest waterfall is about 40 meters high, followed by smaller cascades and turquoise water pools that invite swimming. It is a popular tourist destination and is known for its tranquil and relaxing environment, and the adventurous can even enjoy a raft ride or a dive off cliffs.</h4>
+  <p>Information from: <a href = "https://en.wikipedia.org/wiki/Kawasan_Falls#:~:text=The%20Kawasan%20Falls%20is%20a,%2C%20Cebu%2C%20in%20the%20Philippines."> Wikipedia</a></p>
+  <br> 
+  <h3>3.) Chocolate Hills</h3>
+  <img src = "https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2024/03/16/e44c5c6a-e323-4f60-bd43-022d4500b396_1f97d40f.jpg" height = 200, width = 300>
+  <img src = "https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2024/03/16/292da4f2-ac6a-4b21-9318-441150086651_f9365846.jpg" height = 200, width = 300>
+  <h4>Description. Chocolate Hills and its immediate environs are relatively flat to rolling topography with elevation ranges from 100 m to 500 m above sea level. It has been declared the country's 3rd National Geological Monument on June 18, 1988 in recognition of its scientific value and geomorphic uniqueness.</h4>
+  <p>Information from: <a href = "https://whc.unesco.org/en/tentativelists/5024/#:~:text=Description,scientific%20value%20and%20geomorphic%20uniqueness.">UNESCO</a></p>
+  <br> 
+  <h3>4.) Alona Beach</h3>
+  <img src = "https://www.worldbeachguide.com/photos/alona-beach-bohol.jpg" height = 200, width = 300>
+  <img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiO6U-ZBwlGH9p_ex-DIOI7kUhWqqyH2A3RMBdNCNClEwK5xMKE7yNDBchK5xQEJ_LFhV-ImKX3eBaKJH0aq9N8MnW_tW57xXlc7uOTmToKlAvjFm3yAPN3xc0ZcaHB4VN0J7UCP-Ul_A/s1600/IMG_1142aa.jpg" height = 200, width = 300>
+  <h4>Located on Panglao Island in Bohol, Alona Beach is a 1.5-kilometer stretch of pure white sand beach fringed with swaying palm trees and surrounded by azure waters teeming with rich marine biodiversity. This sun-drenched strip was named after Alona Alegre, a famous Filipina actress in the '70s who filmed a movie on this breathtaking beach. Since then, Alona Beach has not only gained popularity among the locals but also caught international tourists' attention, becoming one of the Philippines' top beach destinations.</h4>
+  <p>Information from: <a href = "https://www.traveloka.com/en-ph/explore/destination/alona-beach-where-to-stay-acc/281719">Traveloka</a></p>
+  <br> 
+  <h3>5.) Taal Volcano </h3>
+  <img src = "https://jamescarveronline.com/wp-content/uploads/2017/01/tagaytay-volcano.jpg" height = 200, width = 300>
+  <img src = "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/84/a2/7f/beautiful-taal-lake-hiked.jpg?w=1200&h=-1&s=1" height = 200, width = 300>
+  <h4>Taal is an active volcano within a massive caldera, with at least 38 recorded eruptions in the last 450 years. Its most recent major eruption in 2020 prompted evacuations in its surrounding communities while spreading ash across neighboring provinces and regions, including Metro Manila.</h4>
+  <p>Information from: <a href = "https://whc.unesco.org/en/tentativelists/6714/#:~:text=Description&text=Taal%20is%20an%20active%20volcano,and%20regions%2C%20including%20Metro%20Manila.">UNESCO</a></p>
+  <br> 
+  <h2> <a href = "https://0db0074c-2edb-4343-9d31-3a671f86a05a-00-34e4bgh61c90f.picard.replit.dev/"> Return back to home page </a></h2>
+  <br><br><br> 
+  <p> Disclaimer: All sources have been cited for this coding project. Credits to all the original posters of information. </p>
+  <br> 
+  <p> Photo sources (in order): </p>
+  <p>1a.) <a href = "https://visitfortsantiago.com/"> Fort Santiago </a> </p>
+  <p>1b.) <a href = "https://www.cosmo.ph/lifestyle/manila-trip-intramuros-fort-santiago-dungeons-open-to-public-a292-20200201"> Cosmopolitan </a></p>
+  <p>2a.) <a href = "https://www.tripadvisor.com/Attraction_Review-g2140591-d3914031-Reviews-Kawasan_Falls-Badian_Cebu_Island_Visayas.html" > Tripadvisor</a></p>
+  <p>2b.) <a href = "https://www.klook.com/en-US/activity/3874-canyoning-kawasan-falls-adventure-cebu/"> Klook </a></p>
+  <p>3a.) <a href = "https://www.scmp.com/week-asia/health-environment/article/3255632/philippines-chocolate-hills-closure-spotlights-unclear-guidelines-eco-tourism-projects"> South China Morning Post </a></p>
+  <p>3b.) <a href = "https://www.scmp.com/week-asia/health-environment/article/3255632/philippines-chocolate-hills-closure-spotlights-unclear-guidelines-eco-tourism-projects"> South China Morning Post </a></p>  
+  <p>4a.) <a href = "https://www.worldbeachguide.com/philippines/alona.htm"> World Beach Guide </a></p>
+  <p>4b.) <a href = "https://wanderdude.blogspot.com/2015/08/white-beach-alona-beach-panglao-bohol.html"> Wonder Dude </a></p>
+  <p>5a.) <a href = "https://jamescarveronline.com/hiking-taal-volcano-philippines-helpful-tips/">Jay Carver</a></p>
+  <p>5b.) <a href = "https://www.tripadvisor.com/Attraction_Review-g1646567-d548158-Reviews-Taal_Volcano-Talisay_Batangas_Province_Calabarzon_Region_Luzon.html">Tripadvisor</a></p>
+</body>
+</html>
